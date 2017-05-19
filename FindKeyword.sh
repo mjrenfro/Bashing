@@ -7,7 +7,7 @@
 #Setup Instructions
 #   install antiword : (sudo) apt-get install antiword
 #Run Instructions
-#   bash FindKeywords.sh <root_dir> <keyword>
+#   bash FindKeyword.sh <root_dir> <keyword>
 
 
 #Resources
