@@ -1,1 +1,1 @@
-# Usefull bash script
+# Useful bash script
