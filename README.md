@@ -1,1 +1,1 @@
-# Useful bash script
+# Collection of various bash scripts 
