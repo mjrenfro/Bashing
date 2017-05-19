@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Searches for a keyword (without spaces) in PDFs, common formatted text files (Microsoft productivity suite[after 2003] files and Open Office suite files), and simple text files
-#Outputs results to Found.txt and non-searchable files to NotSearable.txt
+#Outputs results to Found.txt and non-searchable files to NotSearchable.txt
 
 
 #Setup Instructions
@@ -66,7 +66,7 @@ function PrintFound()
 }
 function PrintNotFound()
 {
-  echo "$1" >> "NotSearable.txt"
+  echo "$1" >> "NotSearchable.txt"
 }
 function SimpleSearch()
 {
